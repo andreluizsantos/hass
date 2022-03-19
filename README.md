@@ -16,3 +16,10 @@ docker-compose up -d
 ## Remove Docker Volumes from Docker Compose File
 ```
 docker-compose down --volumes
+```
+
+## Observação
+```
+Primeiro login no Grafana 
+User:admin
+Pass:admin
